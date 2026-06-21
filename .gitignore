@@ -1,0 +1,27 @@
+# Environment files - NEVER commit these
+backend/.env
+fronted/.env.local
+.env
+.env.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/uploads/
+
+# Node
+fronted/node_modules/
+node_modules/
+fronted/dist/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+.DS_Store
