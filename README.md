@@ -11,6 +11,10 @@ It is still a learning project, so some parts are basic and can be improved late
 - Sorts emails into categories like notes, assignments, announcements, events, and resources
 - Shows deadlines and recent activity in a dashboard
 
+## Live Demo
+Frontend: https://edu-inbox.vercel.app
+Backend API: http://3.26.211.180:8000/docs
+
 ## Main folders
 
 - backend/ - Python FastAPI backend
@@ -23,6 +27,7 @@ It is still a learning project, so some parts are basic and can be improved late
 - PostgreSQL
 - Redis
 - A Google Cloud account for Gmail login
+
 
 ## How to run it locally
 
